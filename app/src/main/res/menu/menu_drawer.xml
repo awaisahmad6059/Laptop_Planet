@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/recyclebin"
+        android:icon="@drawable/deletre"
+        android:title="Recycle Bin" />
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_add_home_24"
+        android:title="About us" />
+    <item
+        android:id="@+id/sold"
+        android:icon="@drawable/baseline_assistant_24"
+        android:title="Rate us" />
+</menu>

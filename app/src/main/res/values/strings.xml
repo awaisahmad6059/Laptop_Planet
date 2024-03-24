@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stock Management</string>
+    <string name="open">Drawer open</string>
+    <string name="close">Drawer closed</string>
+    <string name="navigation_drawer_toggle">Toggle Drawer</string>
+
+</resources>
